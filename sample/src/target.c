@@ -9,6 +9,7 @@
 static U4 state;
 U4 global;
 U1 testvalue;
+member mem1;
 
 static void target_function_s_001(void);
 
